@@ -10,6 +10,9 @@
 # Generation Time: 2022-09-14 20:23:50 +0000
 # ************************************************************
 
+DROP DATABASE IF EXISTS `superstore_db`;
+CREATE DATABASE `superstore_db`;
+USE `superstore_db`;
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
